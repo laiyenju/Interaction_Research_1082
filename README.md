@@ -12,7 +12,7 @@
 | 日期  | 課程                                                                             | 內容                                  |
 | ----- | -------------------------------------------------------------------------------- |:------------------------------------- |
 | 02/25 | [Course introduction](https://hackmd.io/@laiyenju/NCCU-1082-interaction-0-intro) | 課程要求、HCI發展與研究趨勢、重要年會 |
-| 03/03 | Brain storming & paper reading instruction                                       |                                       |
+| 03/03 | [Brain storming & paper reading instruction](https://hackmd.io/@laiyenju/NCCU-1082-interaction-1-paper)                                       |                                       | 論文閱讀與撰寫技巧、Pre-UIST 工作坊
 | 03/10 | Pre-UIST workshop (online)                                                       |                                       |
 | 03/17 | Pre-UIST discussion                                                              |                                       |
 | 03/24 | Haptics                                                                          |                                       |
