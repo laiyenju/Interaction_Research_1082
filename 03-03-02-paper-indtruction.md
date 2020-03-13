@@ -1,5 +1,5 @@
 
-# 【互動科技研究討論】1：Brain storming & paper reading instruction
+# 【互動科技研究討論】2：Brain storming & paper reading instruction
 
 > 本週重點
 > - 了解研究論文的閱讀方法
@@ -80,3 +80,9 @@ UIST（User Interface Software and Technology）是 ACM(Association for Computin
 
 [2020 年的 UIST](https://uist.acm.org/uist2020/) 時間在 10/20-10/23，在 UIST 舉辦前，台灣的學校會有個 Pre-UIST 工作坊，讓有意投稿 UIST 的同學有個試發表的機會，有點像是論文的提案口試，讓學生們能獲得意見回饋。今年台北的 Pre-UIST 在 3/6 10:00-17:00 於台大德田館舉行。
 
+---
+
+###### tags: `NCCU` `互動科技研究討論`
+> 2020 年政治大學數位內容[【互動科技研究討論】](https://hackmd.io/@laiyenju/NCCU-1082-interaction)課程筆記
+> 
+> 週二 14:00-17:00｜授課老師：蔡欣叡
